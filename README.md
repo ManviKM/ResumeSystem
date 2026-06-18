@@ -36,6 +36,3 @@ Future Enhancements
 * Graphical user interface (GUI).
 * Integration with job portals and ATS systems.
 
-Author
-
-Manvi.K.M
